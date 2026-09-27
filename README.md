@@ -1,6 +1,6 @@
 ## Portfolio
 
-Olen neljännen vuoden tietotekniikan opiskelija Satakunnan ammattikorkeakoulusta ja etsin ensimmäistä työpaikkaa datan parissa. Opinnoissani olen erikoistunut tietokantoihin, data-analytiikkaan, koneoppimiseen ja Python-ohjelmointiin.
+Olen neljännen vuoden tietotekniikan opiskelija Satakunnan ammattikorkeakoulusta ja etsin ensimmäistä työpaikkaa datan ja tekoälyn parissa. Opinnoissani olen erikoistunut tietokantoihin, data-analytiikkaan, koneoppimiseen ja Python-ohjelmointiin.
 
 ### Taidot:
 
